@@ -1,28 +1,38 @@
 {
-    "id": "e6a04589-69ce-4bb5-a79f-46407863fd6a",
+    "id": "c922e837-2670-419d-90d2-77cc251b13c9",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Life_Timer",
+    "name": "timer2",
     "eventList": [
         {
-            "id": "65d598eb-8f4b-4755-b93d-d5306f852378",
+            "id": "68363474-e9a2-47df-be60-77341228b0b4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "e6a04589-69ce-4bb5-a79f-46407863fd6a"
+            "eventtype": 8,
+            "m_owner": "c922e837-2670-419d-90d2-77cc251b13c9"
         },
         {
-            "id": "3251eaf2-e1d2-4c97-8fdd-334aff94a8b9",
+            "id": "be27e229-26f5-4a73-a8c4-0c5bf5399384",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "e6a04589-69ce-4bb5-a79f-46407863fd6a"
+            "m_owner": "c922e837-2670-419d-90d2-77cc251b13c9"
+        },
+        {
+            "id": "8854f83b-b7de-429a-adb1-4d93228a2901",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "c922e837-2670-419d-90d2-77cc251b13c9"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
