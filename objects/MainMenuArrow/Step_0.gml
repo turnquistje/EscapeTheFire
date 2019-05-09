@@ -2,6 +2,30 @@ var move = 0;
 move -= max(keyboard_check_pressed(vk_up), keyboard_check_pressed(ord("W")), 0);
 move += max(keyboard_check_pressed(vk_down), keyboard_check_pressed(ord("S")), 0);
 
+if (keyboard_check_released(ord("1")) == true)
+{
+	room_goto(J_Level_1)
+}
+if (keyboard_check_released(ord("2")) == true)
+{
+	room_goto(J_Level_2)
+}
+if (keyboard_check_released(ord("3")) == true)
+{
+	room_goto(J_Level_3)
+}
+if (keyboard_check_released(ord("4")) == true)
+{
+	room_goto(J_Level_1_H)
+}
+if (keyboard_check_released(ord("5")) == true)
+{
+	room_goto(J_Level_2_H)
+}
+if (keyboard_check_released(ord("6")) == true)
+{
+	room_goto(J_Level_3_H)
+}
 
 if (move != 0) 
 {
