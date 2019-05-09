@@ -207,6 +207,14 @@
             }
         },
         {
+            "Key": "4fc6cc19-4bfa-4ea8-b6f7-d0fb3c33d0f9",
+            "Value": {
+                "id": "9495e01c-f944-4376-b217-d576ac192d11",
+                "resourcePath": "sprites\\man_back_fireproof\\man_back_fireproof.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "50e29cd9-67a4-4c20-bea4-4f52499dfd3a",
             "Value": {
                 "id": "3fb1edd3-c80a-4baf-a50c-e8934f2b60ab",
@@ -447,6 +455,14 @@
             }
         },
         {
+            "Key": "bfe36b08-1422-4a30-ba8e-e0f3229cca25",
+            "Value": {
+                "id": "b1315649-0733-43d2-b884-4a4b281c6194",
+                "resourcePath": "sprites\\man_right_fireproof\\man_right_fireproof.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c1433879-a34c-4a99-9ae8-6e4890caeec6",
             "Value": {
                 "id": "2958a9bb-b887-48c5-b06b-9ab6ccb5a44b",
@@ -503,11 +519,27 @@
             }
         },
         {
+            "Key": "d01020a0-8ed8-4fb5-a99d-659d713c9362",
+            "Value": {
+                "id": "f6df2449-8dae-47d1-aa79-a8025d567cf9",
+                "resourcePath": "sprites\\man_foward_fireproof\\man_foward_fireproof.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d45bada3-96f8-4ed7-aedb-1d887b8dc562",
             "Value": {
                 "id": "5614274c-0e5d-402a-bb07-45148f76f241",
                 "resourcePath": "objects\\O_fire_extinguisher\\O_fire_extinguisher.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "dce735c1-7ab6-4024-b2ac-da3e03e4dad3",
+            "Value": {
+                "id": "06c881e5-d4ba-452f-bc02-0752ed9d94cc",
+                "resourcePath": "sprites\\man_left_fireproof\\man_left_fireproof.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
