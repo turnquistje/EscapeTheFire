@@ -47,7 +47,7 @@ switch(keyboard_key){
 			sprite_index = s_man_right_fireproof
 		}
 		else
-			sprite_index = man_right
+			sprite_index = man_left
 		
 		movement = true
 		
@@ -58,7 +58,7 @@ switch(keyboard_key){
 			sprite_index = s_man_left_fireproof
 		}
 		else
-			sprite_index = man_left
+			sprite_index = man_right
 		
 		movement = true
 		x += spd 

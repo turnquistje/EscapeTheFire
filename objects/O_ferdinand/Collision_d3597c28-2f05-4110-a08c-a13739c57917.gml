@@ -7,5 +7,6 @@ if fireext < 1 {
 } else {
 	instance_destroy(other);
 	fireext = fireext - 1;
+	screen_save(ss)
 	audio_play_sound(Fire_Extinguisher_Sound, 100, false);
 }
