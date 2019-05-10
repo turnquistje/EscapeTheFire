@@ -255,14 +255,6 @@
             }
         },
         {
-            "Key": "563ad73b-7a48-4bde-be34-b6de24506ae8",
-            "Value": {
-                "id": "ffff6442-9fdd-4d26-9749-b5de1fb2448e",
-                "resourcePath": "sprites\\s_man_fireproof\\s_man_fireproof.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "564014dd-f2f9-421b-8819-6123a13764ac",
             "Value": {
                 "id": "9bcfc3e1-c0a8-4e97-8e19-860b25810a1e",
@@ -396,6 +388,14 @@
                 "id": "96805db1-7bea-472e-91cd-082b4cce5fd5",
                 "resourcePath": "views\\951d41c1-5a99-4b11-9164-f417e32fa30f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9677473a-6fc4-4696-b358-b79694c23e95",
+            "Value": {
+                "id": "a4de31b2-6f35-419b-97d9-09de18482241",
+                "resourcePath": "sprites\\s_man_fireproof\\s_man_fireproof.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

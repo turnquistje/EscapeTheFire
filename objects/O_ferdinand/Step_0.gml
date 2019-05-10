@@ -18,7 +18,7 @@ movement = false
 var spd = 3;
 switch(keyboard_key){
 	case ord("W"):
-		y -= spd  
+		y -= spd 
 		if (O_ferdinand.fireext > 0)
 		{
 			sprite_index = s_man_back_fireproof
@@ -36,6 +36,7 @@ switch(keyboard_key){
 		}
 		else
 			sprite_index = man_foward
+		
 		movement = true
 		
 		break
@@ -46,27 +47,30 @@ switch(keyboard_key){
 			sprite_index = s_man_right_fireproof
 		}
 		else
-			sprite_index = man_left
+			sprite_index = man_right
+		
 		movement = true
 		
 		break
 	case ord("D"):
-		if (O_ferdinand.fireext > 0)
+	if (O_ferdinand.fireext > 0)
 		{
 			sprite_index = s_man_left_fireproof
 		}
 		else
-			sprite_index = man_right
+			sprite_index = man_left
+		
 		movement = true
 		x += spd 
 		break
 	default:
-		if (O_ferdinand.fireext > 0)
+	if (O_ferdinand.fireext > 0)
 		{
 			sprite_index = s_man_fireproof
 		}
 		else
 			sprite_index = s_man
+		
 		movement = false
 		
 	
