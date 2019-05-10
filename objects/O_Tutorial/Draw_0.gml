@@ -7,4 +7,4 @@ draw_text(50, 250, "~ Collect fire extinguishers to get Ferdinand out of the fir
 draw_text(50, 350, "~ Watch out for layered fire, Look for the light spots")
 draw_text(50, 450, "~ If you have 0 fire extinguishers a new one will spawn every 10 seconds")
 draw_text(50, 550, "~ Watch out, If idle for too long the game will end due to smoke levels rising")
-draw_text(300, 650, "(Press ENTER to return to the main menu)")
+draw_text(250, 650, "(Press ENTER or SELECT to return to the main menu)")
