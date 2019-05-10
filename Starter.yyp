@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "563ad73b-7a48-4bde-be34-b6de24506ae8",
+            "Value": {
+                "id": "ffff6442-9fdd-4d26-9749-b5de1fb2448e",
+                "resourcePath": "sprites\\s_man_fireproof\\s_man_fireproof.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "564014dd-f2f9-421b-8819-6123a13764ac",
             "Value": {
                 "id": "9bcfc3e1-c0a8-4e97-8e19-860b25810a1e",
